@@ -1,0 +1,1 @@
+(function(){const e=document.createElement("div");return e.innerHTML=["Hello","webpack"].join(""),e})().then((e=>{console.log(e),document.body.appendChild(e)}));
